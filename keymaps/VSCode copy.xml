@@ -1,4 +1,12 @@
 <keymap version="1" name="VSCode copy" parent="VSCode">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
@@ -6,6 +14,7 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
+  <action id="RiderUnitTestRunCurrentSessionTwAction" />
   <action id="ShowFilterPopup" />
   <action id="UsageGrouping.FileStructure" />
 </keymap>
