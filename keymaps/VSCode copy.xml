@@ -10,6 +10,9 @@
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl o" />
   </action>
+  <action id="CollapseSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
+  </action>
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="enter" />
   </action>
@@ -19,6 +22,7 @@
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
+  <action id="Git.Branches" />
   <action id="HideSideWindows" />
   <action id="IntroduceField" />
   <action id="RecentLocations" />
