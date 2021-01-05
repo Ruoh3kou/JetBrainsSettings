@@ -35,5 +35,6 @@
     <keyboard-shortcut first-keystroke="ctrl period" />
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
+  <action id="SwitchHeaderSource" />
   <action id="UsageGrouping.FileStructure" />
 </keymap>
