@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'AIActorFactory.Database'" />
-    <option name="defaultScopeName" value="Project 'AIActorFactory.Database'" />
-    <option name="SEARCH_SCOPE" value="Project 'AIActorFactory.Database'" />
+    <option name="customScope" value="File '...\AIActorFactory.Database\Api\ResourceLib.cs'" />
+    <option name="defaultScopeName" value="File '...\AIActorFactory.Database\Api\ResourceLib.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\AIActorFactory.Database\Api\ResourceLib.cs'" />
   </component>
 </application>
