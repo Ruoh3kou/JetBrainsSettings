@@ -30,6 +30,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
   <action id="RiderUnitTestRunCurrentSessionTwAction" />
+  <action id="SaveDocument">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="ShowFilterPopup" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="ctrl period" />
