@@ -1,11 +1,11 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="glsl" type="Cg" />
-      <removed_mapping ext="shader" type="GLSL shader file" />
-      <removed_mapping ext="glsl" type="GLSL shader file" />
+      <removed_mapping ext="glsl" type="Cg" />
+      <mapping ext="glsl" type="GLSL shader file" />
+      <mapping ext="shader" type="GLSL shader file" />
       <mapping ext="cpp" type="PLAIN_TEXT" />
-      <mapping ext="shader" type="ShaderLab" />
+      <removed_mapping ext="shader" type="ShaderLab" />
     </extensionMap>
   </component>
 </application>
