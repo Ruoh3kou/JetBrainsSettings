@@ -35,4 +35,12 @@
     <entry key="vcs.enable.add.ignored.directories.to.exclude" value="false" />
     <entry key="editor.distraction.free.mode" value="true" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="Memory" value="true" />
+        <entry key="RiderMemory" value="true" />
+      </map>
+    </option>
+  </component>
 </application>
