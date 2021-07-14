@@ -34,11 +34,4 @@
     <entry key="ea.enable.developers.list" value="false" />
     <entry key="vcs.enable.add.ignored.directories.to.exclude" value="false" />
   </component>
-  <component name="StatusBar">
-    <option name="widgets">
-      <map>
-        <entry key="RoslynIcon" value="false" />
-      </map>
-    </option>
-  </component>
 </application>
