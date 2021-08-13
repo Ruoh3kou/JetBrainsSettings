@@ -1,9 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
-      <mapping ext="glsl" type="Cg" />
       <mapping ext="cpp" type="PLAIN_TEXT" />
-      <mapping ext="shader" type="ShaderLab" />
     </extensionMap>
   </component>
 </application>
