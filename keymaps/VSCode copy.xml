@@ -8,6 +8,7 @@
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
   <action id="ActivateRunToolWindow" />
+  <action id="ChangesView.Revert" />
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl o" />
   </action>
