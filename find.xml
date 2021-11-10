@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project 'DramaEditor.Editor'" />
     <option name="defaultScopeName" value="Project 'DramaEditor.Editor'" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'DramaEditor.Editor'" />
   </component>
 </application>
