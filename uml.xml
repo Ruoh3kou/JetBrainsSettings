@@ -1,0 +1,9 @@
+<application>
+  <component name="UmlConfiguration">
+    <option name="categories">
+      <map>
+        <entry id="Microservices" categories="From tests;From libraries;Show Neighbours of Selected Nodes;Show Borders" />
+      </map>
+    </option>
+  </component>
+</application>
